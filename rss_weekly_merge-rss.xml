@@ -8,154 +8,19 @@
     <language>it-IT</language>
     <dc:identifier>https://example.local/webhook/merged-rss</dc:identifier>
     <item>
-      <title>From systems of record to systems of work</title>
-      <link>https://www.cio.com/article/4125801/from-systems-of-record-to-systems-of-work.html</link>
-      <guid>https://www.cio.com/article/4125801/from-systems-of-record-to-systems-of-work.html</guid>
-      <description>Enterprise Architecture (EA) at a **strategic, high-level** scale: Aligns business objectives with IT capabilities across global enterprises to drive innovation, cost efficiency, and scalability. Focuses on frameworks like TOGAF, Zachman, or FEAF to standardize governance, risk, and compliance while optimizing legacy systems and emerging tech (AI/ML, cloud). Prioritizes cross-functional collaboration between C-level executives, data architects, and vendors to ensure agile transformation. Critical for large-scale digital initiatives, regulatory adherence (e.g., GDPR), and competitive differentiation in complex ecosystems.
-
-**Not of interest:** Operational day-to-day IT tasks or vendor-specific tools.</description>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-03</pubISODate>
-    </item>
-    <item>
-      <title>Innovation spotlight: How Gulf Marine reinvented its operations with GROW with SAP</title>
-      <link>https://www.cio.com/article/4122592/innovation-spotlight-how-gulf-marine-reinvented-its-operations-with-grow-with-sap.html</link>
-      <guid>https://www.cio.com/article/4122592/innovation-spotlight-how-gulf-marine-reinvented-its-operations-with-grow-with-sap.html</guid>
-      <description>Enterprise Architecture (EA) mandates **strategic alignment** between business goals and IT systems, ensuring scalability, security, and efficiency. Key focus areas include **digital transformation**, **data governance**, and **interoperability** across legacy/modern systems. EA frameworks like TOGAF or Zachman guide structured architecture design, balancing cost, risk, and innovation while addressing compliance (e.g., GDPR). Integration of cloud-native architectures and AI/ML accelerates agility but demands robust cybersecurity and vendor neutrality. Legacy modernization via microservices or hybrid clouds optimizes performance without overhauling entire systems.</description>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-03</pubISODate>
-    </item>
-    <item>
-      <title>Governing Multi-Agent AI Systems: An Enterprise Blueprint for Scalable Autonomy, Trust, and Control</title>
-      <link>https://www.architectureandgovernance.com/app-tech/governing-multi-agent-ai-systems-an-enterprise-blueprint-for-scalable-autonomy-trust-and-control/</link>
-      <guid>https://www.architectureandgovernance.com/app-tech/governing-multi-agent-ai-systems-an-enterprise-blueprint-for-scalable-autonomy-trust-and-control/</guid>
-      <description>Enterprise Architecture (EA) mandates **strategic alignment** between business goals and IT systems, ensuring scalability, security, and efficiency. Key focus areas include **digital transformation**, **data governance**, and **interoperability frameworks**. EA drives **cost optimization** via standardized processes while balancing innovation with legacy system integration. Critical success factors involve **stakeholder collaboration**, **risk management**, and **agile methodologies** to adapt to evolving business needs.
-
-*Not of interest.*</description>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-02</pubISODate>
-    </item>
-    <item>
-      <title>Preparing for physical AI: 5 critical infrastructure components</title>
-      <link>https://www.cio.com/article/4125160/preparing-for-physical-ai-5-critical-infrastructure-components.html</link>
-      <guid>https://www.cio.com/article/4125160/preparing-for-physical-ai-5-critical-infrastructure-components.html</guid>
-      <description>Enterprise Architecture (EA) at **strategic scale** demands a holistic, future-proof framework aligning business, IT, and organizational goals. Focuses on **cross-domain integration**, scaling digital transformation, and optimizing complex ecosystems—e.g., AI-driven automation, cloud-native architectures, or multi-stakeholder governance. Prioritizes agility in dynamic environments (e.g., post-pandemic resilience, geopolitical shifts) while balancing legacy systems with innovation. Key challenges: **data sovereignty**, cybersecurity at enterprise scale, and aligning KPIs across silos. Outcomes include **cost-efficiency** via modular architectures and **competitive advantage** through predictive analytics.</description>
-      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-02</pubISODate>
-    </item>
-    <item>
-      <title>Decision-making under uncertainty: A practical playbook for engineering leaders</title>
-      <link>https://www.cio.com/article/4125879/decision-making-under-uncertainty-a-practical-playbook-for-engineering-leaders.html</link>
-      <guid>https://www.cio.com/article/4125879/decision-making-under-uncertainty-a-practical-playbook-for-engineering-leaders.html</guid>
-      <description>Enterprise Architecture frameworks like TOGAF, Zachman, or FEAF emphasize **strategic alignment** between business goals and IT systems. Key focus areas include **governance models**, **architecture layers** (business, data, application, technology), and **value delivery through digital transformation**. Frameworks like **ArchiMate** standardize modeling for cross-functional collaboration, while **reference architectures** (e.g., AWS Well-Architected) provide best practices for scalability, security, and cost efficiency. Emerging trends highlight **AI/ML integration**, **cloud-native design**, and **resilience engineering** to address modern challenges like agility and cybersecurity risks.
-
-not of interest</description>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-03</pubISODate>
-    </item>
-    <item>
-      <title>If your AI strategy still looks like 2024, you’re already too late</title>
-      <link>https://www.cio.com/article/4125852/if-your-ai-strategy-still-looks-like-2024-youre-already-too-late.html</link>
-      <guid>https://www.cio.com/article/4125852/if-your-ai-strategy-still-looks-like-2024-youre-already-too-late.html</guid>
-      <description>Enterprise Architecture (EA) at **strategic scale** drives transformative digital and operational convergence across industries. Key focus areas include **AI-driven decision-making**, **multi-cloud/edge architectures**, and **quantum-resilient cybersecurity**. Mandatory alignment with **enterprise-wide governance models** (e.g., TOGAF, Zachman) ensures scalability while balancing agility and compliance. High-impact themes: **supply chain resilience via IoT**, **autonomous systems integration**, and **data sovereignty frameworks** for global enterprises. Not of interest: tactical IT projects or legacy system upgrades.</description>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-03</pubISODate>
-    </item>
-    <item>
-      <title>5 IT shifts every CIO must master this year</title>
-      <link>https://www.cio.com/article/4125868/5-it-shifts-every-cio-must-master-this-year.html</link>
-      <guid>https://www.cio.com/article/4125868/5-it-shifts-every-cio-must-master-this-year.html</guid>
-      <description>Enterprise Architecture frameworks like TOGAF, Zachman, or FEAF emphasize **strategic alignment** and **cross-domain integration**, ensuring IT supports business goals via structured governance. Key focus areas include **enterprise-wide data models**, **process optimization**, and **technology roadmaps** to balance innovation with stability. High-level principles prioritize **sustainability**, **risk management**, and **agile adaptability** for dynamic environments.
-
-Not of interest.</description>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-03</pubISODate>
-    </item>
-    <item>
-      <title>Agentic AI isn’t about the agents. It’s about the platform</title>
-      <link>https://www.cio.com/article/4125864/agentic-ai-isnt-about-the-agents-its-about-the-platform.html</link>
-      <guid>https://www.cio.com/article/4125864/agentic-ai-isnt-about-the-agents-its-about-the-platform.html</guid>
-      <description>Enterprise Architecture (EA) mandates **strategic alignment** between business goals and IT systems, ensuring scalability, security, and efficiency. Key focus areas include **digital transformation**, **data governance**, and **interoperability** across legacy/modern systems. EA frameworks like TOGAF or Zachman guide structured planning, balancing cost, risk, and innovation while addressing compliance (e.g., GDPR). Cloud migration, AI integration, and cybersecurity are critical trends reshaping architectures. Failure to align EA with business objectives risks inefficiency or disruption.
-
-**Not of interest**: Technical implementation details beyond high-level strategy.</description>
-      <pubDate>Tue, 03 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-03</pubISODate>
-    </item>
-    <item>
-      <title>Rules In The Agentic Shipyard: Desired Agents Must Twist-Lock</title>
-      <link>https://www.forrester.com/blogs/rules-in-the-agentic-shipyard-desired-agents-must-twist-lock/</link>
-      <guid>https://www.forrester.com/blogs/rules-in-the-agentic-shipyard-desired-agents-must-twist-lock/</guid>
-      <description>Enterprise Architecture (EA) mandates **strategic alignment** between business goals and IT systems, ensuring scalability, security, and efficiency. Key focus areas include **digital transformation**, **data governance**, and **interoperability** across legacy/modern systems. EA frameworks like TOGAF or Zachman guide structured architecture design, balancing cost, risk, and innovation while addressing compliance (e.g., GDPR). Cloud migration, AI integration, and cybersecurity resilience are critical trends shaping modern EA strategies.
-
-*Not of interest.*</description>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-04</pubISODate>
-    </item>
-    <item>
-      <title>The curious evolution of the ‘chief AI officer’</title>
-      <link>https://www.cio.com/article/4126708/the-curious-evolution-of-the-chief-ai-officer.html</link>
-      <guid>https://www.cio.com/article/4126708/the-curious-evolution-of-the-chief-ai-officer.html</guid>
-      <description>Enterprise Architecture (EA) mandates structured governance for aligning IT strategy with business objectives. Core principles include **standardized frameworks** (TOGAF, Zachman), ensuring modularity and scalability in systems design. Mandatory rules enforce **risk mitigation**, compliance (e.g., GDPR, ISO 27001), and **interoperability** across legacy/modern tech stacks. Architectural decisions prioritize **cost-efficiency**, performance optimization, and future-proofing via modularity and agile adaptability. Security-by-design is mandatory, with data sovereignty and encryption as non-negotiables. Stakeholder alignment requires clear documentation (e.g., architecture decision records) to justify trade-offs transparently.
-
-**Not of interest**: Detailed vendor comparisons or historical EA evolution.</description>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-04</pubISODate>
-    </item>
-    <item>
-      <title>What CIOs in finance do to navigate AI agents</title>
-      <link>https://www.cio.com/article/4123497/what-cios-in-finance-do-to-navigate-ai-agents.html</link>
-      <guid>https://www.cio.com/article/4123497/what-cios-in-finance-do-to-navigate-ai-agents.html</guid>
-      <description>Enterprise architecture frameworks like TOGAF, Zachman, or FEAF emphasize **strategic alignment** between business goals and IT systems. Key focus areas include **enterprise-wide governance**, modular design for scalability, and standardized processes (e.g., data modeling, service-oriented architectures). Integration of legacy systems with modern cloud-native solutions is critical. Security, compliance (GDPR/ISO), and digital transformation priorities drive innovation while balancing risk. Frameworks like ArchiMate or BPMN support visualization of architecture layers (business, application, technology).
-
-**Not of interest**: Detailed vendor-specific tool comparisons or non-framework technical deep dives.</description>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-04</pubISODate>
-    </item>
-    <item>
-      <title>Why PMOs are perfectly positioned to lead AI adoption</title>
-      <link>https://www.cio.com/article/4126680/why-pmos-are-perfectly-positioned-to-lead-ai-adoption.html</link>
-      <guid>https://www.cio.com/article/4126680/why-pmos-are-perfectly-positioned-to-lead-ai-adoption.html</guid>
-      <description>Enterprise Architecture (EA) at **strategic scale** drives transformative digital and operational convergence across industries. Key focus areas include **AI-driven decision-making**, **hyper-personalization**, and **real-time global optimization**. Mandatory integration of **quantum computing** and **blockchain** for ultra-secure, decentralized ecosystems accelerates innovation in sectors like healthcare (genomic AI), finance (fintech 3.0), and energy (smart grids). Governance models shift toward **agile, adaptive EA frameworks**, blending legacy systems with next-gen cloud-native architectures. Cyber-physical convergence demands **zero-trust security** and **resilience engineering**. Leadership must align EA with **ESG imperatives**, ensuring sustainability meets exponential growth demands.
-
-not of interest</description>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-04</pubISODate>
-    </item>
-    <item>
-      <title>10 AI predictions for 2026</title>
-      <link>https://www.cio.com/article/3630070/12-ai-predictions-for-2025.html</link>
-      <guid>https://www.cio.com/article/3630070/12-ai-predictions-for-2025.html</guid>
-      <description>Enterprise Architecture (EA) at **strategic scale** drives transformative, cross-domain alignment for high-stakes enterprises. Focuses on **end-to-end value chains**, integrating digital, physical, and human systems to optimize performance under extreme complexity. Prioritizes **agile governance**, future-proofing via AI/ML-driven decision-making, and resilience against disruptions (cyber, geopolitical). Key themes: **hyper-personalization**, supply chain agility, and seamless interoperability across ecosystems—balancing legacy systems with cutting-edge innovation for competitive advantage.</description>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-05</pubISODate>
-    </item>
-    <item>
       <title>The rise of GenAI in decision intelligence: Trends and tools for 2026 and beyond</title>
       <link>https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html</link>
       <guid>https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html</guid>
-      <description>Enterprise Architecture frameworks like TOGAF, Zachman, or FEAF emphasize **strategic alignment** and **enterprise-wide integration**, ensuring IT supports business goals via structured governance. Key focus areas include **core architecture principles** (e.g., separation of concerns), **reference models** (e.g., ArchiMate for modeling), and **frameworks like TOGAF’s ADM phases** to drive transformation. High-level themes: **value delivery**, **risk management**, and **scalable, future-proof systems**. Critical for large-scale digital modernization or M&amp;A integration.
-
-not of interest</description>
+      <description>Enterprise Architect focus: **Strategic Digital Transformation &amp; Enterprise-Wide Optimization**
+Key themes include **AI-driven decision-making**, **hybrid cloud resilience**, and **enterprise-wide agility**—balancing legacy systems with modern scalability. Mandatory compliance frameworks (e.g., GDPR, ISO 27001) drive secure, scalable architectures. Cybersecurity-as-a-service integration ensures real-time threat mitigation. Data governance enforces privacy while enabling AI-driven insights. **Zero-trust security models** and **microservices-based agility** underpin high-performance, cost-efficient operations. Focus: **enterprise-wide efficiency, compliance, and innovation**.</description>
       <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
       <pubISODate>2026-02-06</pubISODate>
     </item>
     <item>
-      <title>From go-live to always-live: How agentic AI is rewriting the finance transformation playbook</title>
-      <link>https://www.cio.com/article/4128116/from-go-live-to-always-live-how-agentic-ai-is-rewriting-the-finance-transformation-playbook.html</link>
-      <guid>https://www.cio.com/article/4128116/from-go-live-to-always-live-how-agentic-ai-is-rewriting-the-finance-transformation-playbook.html</guid>
-      <description>Enterprise Architecture frameworks like TOGAF, Zachman, or FEAF emphasize alignment between business goals and IT systems. Key principles include **strategic alignment**, modular design for scalability, and governance to ensure agility. Modern trends highlight **digital transformation** (AI/ML integration) and **cloud-first strategies**, balancing legacy systems with innovation. Security and compliance (e.g., GDPR, ISO 27001) are critical. Open-source tools like ArchiMate or OpenModeling accelerate adoption while reducing costs.
-
-not of interest</description>
-      <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
-      <pubISODate>2026-02-06</pubISODate>
-    </item>
-    <item>
-      <title>The 10-man parity rule: When AI adoption accelerates faster than organizations can see</title>
-      <link>https://www.cio.com/article/4128080/the-10-man-parity-rule-when-ai-adoption-accelerates-faster-than-organizations-can-see.html</link>
-      <guid>https://www.cio.com/article/4128080/the-10-man-parity-rule-when-ai-adoption-accelerates-faster-than-organizations-can-see.html</guid>
-      <description>Enterprise architecture frameworks like TOGAF, Zachman, or FEAF emphasize modular design for scalability and adaptability. Key principles include aligning IT with business goals via **enterprise-wide models** (strategy, architecture, etc.), leveraging **standardized processes**, and ensuring **interoperability** across systems. Governance ensures compliance while balancing innovation and risk. Emerging trends like AI/ML integration and cloud-native architectures demand agile frameworks to support digital transformation.
-
-not of interest</description>
+      <title>Tdfafafd</title>
+      <link>https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html</link>
+      <guid>https://www.cio.com/article/4128177/the-rise-of-genai-in-decision-intelligence-trends-and-tools-for-2026-and-beyond.html</guid>
+      <description>E** underpin high-performance, cost-efficient operations. Focus: **enterprise-wide efficiency, compliance, and innovation**.</description>
       <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
       <pubISODate>2026-02-06</pubISODate>
     </item>
